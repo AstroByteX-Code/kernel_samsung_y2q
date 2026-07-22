@@ -1,0 +1,1 @@
+# kernel_samsung_y2q
